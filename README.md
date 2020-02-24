@@ -2,4 +2,5 @@
 
 This is a sample readme file
 
---one more update to Master branch
+--Modified for exmple of branch
+--random updates for another branch
